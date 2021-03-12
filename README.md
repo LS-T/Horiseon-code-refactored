@@ -6,3 +6,5 @@ Cleaned up the original given code to incorporate semantic html elements. This a
 
 
 Deployable link:https://ls-t.github.io/Horiseon-code-refactored/
+
+[Deployable link](https://ls-t.github.io/Horiseon-code-refactored/)
